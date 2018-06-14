@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="top_songs">Utwory tygodnia</string>
+    <string name="genre">Genre</string>
+    <string name="style">Style</string>
+    <string name="album">Album</string>
+    <string name="favorites">Favorites</string>
+    <string name="searchalbum">Search Album</string>
+    <string name="enter_artist_name">Enter Artist Name</string>
+    <string name="bSearch">Search</string>
+    <string name="year_released">year_released</string>
+    <string name="sales">sales</string>
+    <string name="score">score</string>
+    <string name="sort_by_name">sortuj wg name</string>
+    <string name="sort_by_year">sortuj wg roku</string>
+    <string name="sort_by_sale">sortuj wg sprzedaz</string>
+    <string name="sort_by_score">sortuj wg ilosci</string>
+</resources>
